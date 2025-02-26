@@ -6,23 +6,23 @@ configure_osx: true
 # Set to 'true' to configure the Dock via dockutil.
 configure_dock: true
 dockitems_remove: []
- - Launchpad
- - TV
- - Podcasts
- - 'App Store'
- - Calendar
- - Mail
- - Safari
- - Messages
- - Contacts
- - Notes
- - Maps
- - Photos
- - Reminders
- - FaceTime
- - FreeForm
- - Music
- - TV
+# - Launchpad
+# - TV
+# - Podcasts
+# - 'App Store'
+# - Calendar
+# - Mail
+# - Safari
+# - Messages
+# - Contacts
+# - Notes
+# - Maps
+# - Photos
+# - Reminders
+# - FaceTime
+# - FreeForm
+# - Music
+# - TV
 dockitems_persist: []
 
 configure_sudoers: false
