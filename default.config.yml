@@ -24,6 +24,27 @@ dockitems_remove: []
 # - Music
 # - TV
 dockitems_persist: []
+# - name: "Google Chrome"
+#   path: "/Applications/Google Chrome.app/"
+#   pos: 3
+# - name: "Discord Canary"
+#   path: "/Applications/Discord Canary.app/"
+#   pos: 4
+# - name: "Warp"
+#   path: "/Applications/Warp.app/"
+#   pos: 5
+# - name: "Visual Studio Code"
+#   path: "/Applications/Visual Studio Code.app/"
+#   pos: 6
+# - name: "Bitwarden"
+#   path: "/Applications/Bitwarden.app/"
+#   pos: 7
+# - name: "Spotify"
+#   path: "/Applications/Spotify.app/"
+#   pos: 8
+# - name: "UTM"
+#   path: "/Applications/UTM.app/"
+#   pos: 9
 
 configure_sudoers: false
 sudoers_custom_config: ''
@@ -83,6 +104,7 @@ homebrew_cask_apps:
   - alt-tab
   - transmission
   - bitwarden
+  - git-credential-manager
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
