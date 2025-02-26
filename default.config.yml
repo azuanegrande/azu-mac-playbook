@@ -19,7 +19,7 @@ dockitems_remove:
  - Photos
  - Reminders
  - FaceTime
- - FreeForm
+ - Freeform
  - Music
  - TV
 
@@ -45,6 +45,9 @@ dockitems_persist:
  - name: "UTM"
    path: "/Applications/UTM.app/"
    pos: 9
+ - name: "System Settings"
+   path: "/Applications/System Settings.app/"
+   pos: 10
 
 configure_sudoers: false
 sudoers_custom_config: ''
