@@ -1,4 +1,8 @@
-love !
+# Automation playbook for my usual MacOS install.
+
+
+
+**Installation**
 
 xcode-select --install
 
