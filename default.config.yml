@@ -5,7 +5,6 @@ configure_osx: true
 
 configure_dock: true
 dockitems_remove:
- - Launchpad
  - TV
  - Podcasts
  - 'App Store'
@@ -104,6 +103,9 @@ homebrew_cask_apps:
   - transmission
   - bitwarden
   - git-credential-manager
+  - mos
+  - raycast
+  
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
